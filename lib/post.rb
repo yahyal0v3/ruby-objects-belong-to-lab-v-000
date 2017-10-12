@@ -2,6 +2,6 @@
 class Post
 
 
-end 
+end
 
   
